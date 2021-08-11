@@ -153,12 +153,12 @@ hr{
 }
 
 .underline{
-  width: 150px;
+  width: 70%;
   height: 3px;
   background: #6dbf8b;
   border-radius: 3px;
   position: absolute;
-  margin: 10px 25% 0 25%;
+  margin: 10px 15% 0 15%;
   /* top: 25%;
   left: 0; */
 }
