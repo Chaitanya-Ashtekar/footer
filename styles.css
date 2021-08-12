@@ -11,8 +11,6 @@ body{
 
 footer{
   width: 100%;
-  position: absolute;
-  bottom: 0;
   /* background: linear-gradient(to right, #A9F1DF, #3ba963); */
   /* background: radial-gradient(#fff, #A9F1DF); */
   background: #A9F1DF;
